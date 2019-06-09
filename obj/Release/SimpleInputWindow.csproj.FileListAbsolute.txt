@@ -1,0 +1,15 @@
+A:\C#\SimpleInputWindow\bin\Release\SimpleInputWindow.dll
+A:\C#\SimpleInputWindow\bin\Release\SimpleInputWindow.pdb
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.csprojAssemblyReference.cache
+A:\C#\SimpleInputWindow\obj\Release\InputItem.g.cs
+A:\C#\SimpleInputWindow\obj\Release\InputWindow.g.cs
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow_MarkupCompile.cache
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow_MarkupCompile.lref
+A:\C#\SimpleInputWindow\obj\Release\InputItem.baml
+A:\C#\SimpleInputWindow\obj\Release\InputWindow.baml
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.g.resources
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.Properties.Resources.resources
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.csproj.GenerateResource.cache
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.csproj.CoreCompileInputs.cache
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.dll
+A:\C#\SimpleInputWindow\obj\Release\SimpleInputWindow.pdb
