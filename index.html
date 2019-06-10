@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Simple Input Window</h1>
+        <a>SIW allows you easily create a window if you need some input from user</a>
+        <br><br>
+        <img src="https://pp.userapi.com/c856132/v856132891/5cead/QU4BCQ7Qyo4.jpg">
+        <br><br>
+        <a>You can create an infinite number of textfields for your needs</a>
+        <h2>Step 1</h2>
+        <a>Create a window using this command:</a>
+        <b><a class="class">InputWindow</a> <a class="obj">iw</a> <a>=</a> <a class="keyword">new</a> <a class="class">InputWindow</a><a>(</a><a class="keyword">new </a><a class="class">InputItem</a>(<a class="string">"Column Name"</a><a>));</a></b>
+        <br>
+        <a>InputItem class represents TextBox and Hint (Label) above it</a>
+        <br>
+        <h2>Step 2</h2>
+        <a>Show this window: </a><b><a class="keyword">if</a> (<a class="obj">iw</a>.<a class="method">ShowDialog</a>()</a> == <a class="keyword">true</a><a>)</a>...</b>
+        <br><br>
+        <img src="https://pp.userapi.com/c856132/v856132748/5bf54/dg5Sj2cMOL8.jpg">
+        <br><br>
+        <a>ShowDialog returns true only if user filled all inputs and pressed "Confirm" button</a>
+        <br>
+        <a>If some textboxes wasn't filled it throws an <a class="keyword">ArgumentException</a></a>
+        <h2>Step 3</h2>
+        <a>Get inputs as string array:</a>
+        <b><a class="keyword">var</a> <a class="obj">strings</a> = <a class="obj">iw</a>.<a class="method">GetInputs</a>()</b>
+        <br><br>
+        <img src="https://pp.userapi.com/c855732/v855732748/64141/K4Yw3vH6EVs.jpg">
+        <h2>Step 4</h2>
+        <a>Congratulatuons! You're amazing!</a>
+    </body>
+</html>
